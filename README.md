@@ -3,7 +3,7 @@
 "Inverse Free-form Deformation (FFD) for interactive UV map editing"
 
 - Paper: [[acm]](https://doi.org/10.1145/3478512.3488614) [[author version]](https://drive.google.com/file/d/1FvRCf49Zd3QUYhBXCLe1OltW5PXb93Ve/view?usp=sharing)  
-- Presentation: [video [TODO]] [ppt [TODO]]
+- Presentation: [[video]](https://youtu.be/TvSWsnzoVVk) [[ppt]](https://1drv.ms/p/s!AnseDdRuZb1JoEP9nyw61ujIOMeb?e=xrTBOl)
 
 ## At-a-Glance
 
